@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @omershemesh66
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning computer science
+- 👋 Hi, I’m Omer Shemesh
+- 👀 I’m interested in Software evelopment
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on any challenging project 
 - 📫 you can reach me at omer112254@gmail.com
 
